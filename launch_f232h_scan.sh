@@ -1,0 +1,1 @@
+~/.local/bin/i2cscan.py $1
